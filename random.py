@@ -1,6 +1,6 @@
 import pandas as pd
 import random
-from timer.timer import time_this
+from utilities.timer import time_this
 
 
 # Randomly sample a csv
