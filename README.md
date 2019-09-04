@@ -5,3 +5,5 @@ Some functions to ease common tasks
 * randomly downsample a dataframe by binary class
 ### Timer
 * Decorator to time any function
+### Helpers
+* 
